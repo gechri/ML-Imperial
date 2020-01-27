@@ -10,6 +10,10 @@ Please familiarize yourself with the [following brief introduction to Python and
 
 See you in class!
 
+## Day 1
+
+- [Basic libraries and data handling](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/01_lab/lab01_titanic.ipynb)
+
 ## Contacts
 
 ### Lecturer:
