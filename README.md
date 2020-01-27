@@ -14,8 +14,7 @@ See you in class!
 
 - [Basic libraries and data handling](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/01_lab/lab01_titanic.ipynb)
 
-- [Test 1, fill before tomorrow]
-(https://forms.gle/fucgf1693D8SA5WEA)
+- [Test 1, fill before tomorrow](https://forms.gle/fucgf1693D8SA5WEA)
 
 
 ## Contacts
