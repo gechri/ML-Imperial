@@ -21,6 +21,8 @@ See you in class!
 
 - [Classification with logistic regression](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/lab02_classification.ipynb)
 
+- [Competition 1](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/kaggle_lab.ipynb)
+
 ## Tests
 - [Test 1](https://forms.gle/fucgf1693D8SA5WEA)
 
