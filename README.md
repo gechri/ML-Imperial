@@ -25,6 +25,7 @@ See you in class!
 
 ## Tests
 - [Test 1](https://forms.gle/fucgf1693D8SA5WEA)
+- [Test 2](https://forms.gle/hgLkec5yxzuWbx3J6)
 
 
 ## Contacts
