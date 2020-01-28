@@ -24,7 +24,7 @@ See you in class!
 - [Competition 1](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/kaggle_lab.ipynb)
 
 ## Tests
-Each test should be passed before 8-00 of the next day after test publication (when correct answers are released). Points for each test are summed and affect the final grade for the course.
+Each test should be passed before 8-00 of the next day after test publication (when correct answers are released). Points for each test are summed and affect the final grade for the course. In case of multiple submissions for the same test only the  first submission is accounted for.
 
 - [Test 1](https://forms.gle/fucgf1693D8SA5WEA)
 - [Test 2](https://forms.gle/hgLkec5yxzuWbx3J6)
