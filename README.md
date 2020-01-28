@@ -14,6 +14,13 @@ See you in class!
 
 - [Basic libraries and data handling](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/01_lab/lab01_titanic.ipynb)
 
+## Day 2
+
+- [A bit more of KNN and data handling](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/lab02_Data_preprocessing_and_knn.ipynb)
+- [Liniar regression, regularization and grid search](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/lab02_regression.ipynb)
+
+- [Classification with logistic regression](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/lab02_classification.ipynb)
+
 ## Tests
 - [Test 1](https://forms.gle/fucgf1693D8SA5WEA)
 
