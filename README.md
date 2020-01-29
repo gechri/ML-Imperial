@@ -32,6 +32,8 @@ Each test should be passed before 8-00 of the next day after test publication (w
 
 ## Contacts
 
+mlaticl2020@yandex.ru
+
 ### Lecturer:
  -  [Victor Kitov](mailto:v.v.kitov@yandex.ru)
 
