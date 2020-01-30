@@ -23,6 +23,10 @@ See you in class!
 
 - [Competition 1](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/02_lab/kaggle_lab.ipynb)
 
+## Day 3
+
+- [PCA/SVD](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/03_lab/PCA-SVD.ipynb)
+
 ## Tests
 Each test should be passed before 8-00 of the next day after test publication (when correct answers are released). Points for each test are summed and affect the final grade for the course. In case of multiple submissions for the same test only the  first submission is accounted for.
 
