@@ -34,6 +34,7 @@ Each test should be passed before 8-00 of the next day after test publication (w
 - [Test 1](https://forms.gle/fucgf1693D8SA5WEA)
 - [Test 2](https://forms.gle/hgLkec5yxzuWbx3J6)
 - [Test 3](https://forms.gle/n7xBtqzxF2CbMfm96)
+- [Test 4](https://forms.gle/H22HtAa4izAfDGcR6)
 
 
 ## Contacts
