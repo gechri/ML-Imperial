@@ -28,6 +28,12 @@ See you in class!
 - [PCA/SVD](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/03_lab/PCA-SVD.ipynb)
 - [SVM](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/03_lab/SVM_seminar.ipynb)
 
+## Day 4
+
+- [A note on cross-validation](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/Cross_validation_riddle.ipynb)
+- [Trees, ensembling, boosting](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/trees_ensambling.ipynb)
+- [Bias-variance demo](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/BiasVariance.ipynb)
+
 ## Tests
 Each test should be passed before 8-00 of the next day after test publication (when correct answers are released). Points for each test are summed and affect the final grade for the course. In case of multiple submissions for the same test only the  first submission is accounted for.
 
