@@ -35,7 +35,7 @@ See you in class!
 - [Bias-variance demo](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/BiasVariance.ipynb)
 
 ## Day 5
-- Intro to PyTorch
+- [Intro to PyTorch](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/05_lab/pytorch.ipynb)
 
 ## Day 6
 - [CNN](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/06_lab/Conv.ipynb)
