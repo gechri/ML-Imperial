@@ -34,6 +34,13 @@ See you in class!
 - [Trees, ensembling, boosting](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/trees_ensambling.ipynb)
 - [Bias-variance demo](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/04_lab/BiasVariance.ipynb)
 
+## Day 5
+- Intro to PyTorch
+
+## Day 6
+- [CNN](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/06_lab/Conv.ipynb)
+- [Finetuning](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020/blob/master/06_lab/finetuning.ipynb)
+
 ## Tests
 Each test should be passed before 8-00 of the next day after test publication (when correct answers are released). Points for each test are summed and affect the final grade for the course. In case of multiple submissions for the same test only the  first submission is accounted for.
 
